@@ -1,0 +1,17 @@
+C:\Users\LENOVO\Desktop\VP\MidTerm\bin\Debug\net8.0-windows\MidTerm.exe
+C:\Users\LENOVO\Desktop\VP\MidTerm\bin\Debug\net8.0-windows\MidTerm.deps.json
+C:\Users\LENOVO\Desktop\VP\MidTerm\bin\Debug\net8.0-windows\MidTerm.runtimeconfig.json
+C:\Users\LENOVO\Desktop\VP\MidTerm\bin\Debug\net8.0-windows\MidTerm.dll
+C:\Users\LENOVO\Desktop\VP\MidTerm\bin\Debug\net8.0-windows\MidTerm.pdb
+C:\Users\LENOVO\Desktop\VP\MidTerm\obj\Debug\net8.0-windows\MidTerm.Form1.resources
+C:\Users\LENOVO\Desktop\VP\MidTerm\obj\Debug\net8.0-windows\MidTerm.Properties.Resources.resources
+C:\Users\LENOVO\Desktop\VP\MidTerm\obj\Debug\net8.0-windows\MidTerm.csproj.GenerateResource.cache
+C:\Users\LENOVO\Desktop\VP\MidTerm\obj\Debug\net8.0-windows\MidTerm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\Desktop\VP\MidTerm\obj\Debug\net8.0-windows\MidTerm.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Desktop\VP\MidTerm\obj\Debug\net8.0-windows\MidTerm.AssemblyInfo.cs
+C:\Users\LENOVO\Desktop\VP\MidTerm\obj\Debug\net8.0-windows\MidTerm.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\VP\MidTerm\obj\Debug\net8.0-windows\MidTerm.dll
+C:\Users\LENOVO\Desktop\VP\MidTerm\obj\Debug\net8.0-windows\refint\MidTerm.dll
+C:\Users\LENOVO\Desktop\VP\MidTerm\obj\Debug\net8.0-windows\MidTerm.pdb
+C:\Users\LENOVO\Desktop\VP\MidTerm\obj\Debug\net8.0-windows\MidTerm.genruntimeconfig.cache
+C:\Users\LENOVO\Desktop\VP\MidTerm\obj\Debug\net8.0-windows\ref\MidTerm.dll
